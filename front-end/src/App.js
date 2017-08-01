@@ -13,6 +13,8 @@ class App extends Component {
         <p className="App-intro">
           To get started, edit <code>src/App.js</code> and save to reload.
         </p>
+        <span className="glyphicon glyphicon-align-left" aria-hidden="true"></span>
+        <span className="glyphicon glyphicon-star" aria-hidden="true"></span> Star
       </div>
     );
   }
